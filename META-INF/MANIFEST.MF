@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Eclipse Messenger
+Bundle-SymbolicName: e-Messenger;singleton:=true
+Bundle-Version: 0.0.1.SNAPSHOT
+Bundle-Activator: com.jg.eclipse.messenger.EMessengerActivator
+Bundle-Vendor: Jithesh G (jitheshg@gmail.com)
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
